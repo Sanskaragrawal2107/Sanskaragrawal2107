@@ -20,7 +20,7 @@
 
 ## 📌 About Me
 
-- Hi, I'm **Sanskar** 👋 — B.Tech CSE student from **DAVV, Indore**
+- Hi, I'm **Sanskar** 👋 — B.Tech CSE student from **Acropolis, Indore**
 - 🤖 Building AI-native products: **voice agents**, **RAG systems**, and **multi-agent pipelines**
 - 🚀 Shipped **[HireAHuman.ai](https://hire-a-human.app/)** — a live verification-first hiring platform with an MCP server for AI-native talent retrieval
 - 🏆 Won **6+ hackathons** — including a healthcare chatbot with multimodal RAG
