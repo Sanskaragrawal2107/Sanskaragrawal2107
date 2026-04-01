@@ -1,27 +1,156 @@
-# 💫 About Me:
-🔭 I'm currently working on AI/ML projects including VERTO AI (misinformation detection system)<br>👯 I'm looking to collaborate on open-source AI and deepfake detection projects<br>🤝 I'm looking for help with advanced LangChain, LangGraph, and multi-agent AI systems<br>🌱 I'm currently learning FastAPI, MongoDB vector databases, and system architecture design<br>💬 Ask me about LLMs, RAG, deepfake detection, and full-stack AI development<br>⚡ Fun fact: I built a healthcare chatbot with multimodal RAG and won 6+ hackathons!
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20,29&text=Sanskar%20Agrawal&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Builder&descSize=18&descAlignY=55&textBg=false" />
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=800&color=00D4FF&center=true&vCenter=true&width=800&lines=Building+AI+systems+that+actually+ship.;FastAPI+%7C+LangChain+%7C+LangGraph+%7C+React;6%2B+Hackathons+won+%F0%9F%8F%86;Open+to+AI+Engineer+%26+Full-Stack+roles." />
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanskar25/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanskar21072005@gmail.com) 
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Engineer-Builder-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FastAPI%20%2B%20LangChain-Backend-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-orange?style=for-the-badge" />
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sanskaragrawal2107&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sanskaragrawal2107&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanskaragrawal2107&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sanskaragrawal2107&theme=default&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sanskaragrawal2107&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Sanskaragrawal2107">
+    <img src="https://komarev.com/ghpvc/?username=Sanskaragrawal2107&label=Profile%20Views&color=00D4FF&style=flat-square" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sanskaragrawal2107&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📌 About Me
+
+- Hi, I'm **Sanskar** 👋 — B.Tech CSE student from **DAVV, Indore**
+- 🤖 Building AI-native products: **voice agents**, **RAG systems**, and **multi-agent pipelines**
+- 🚀 Shipped **[HireAHuman.ai](https://hire-a-human.app/)** — a live verification-first hiring platform with an MCP server for AI-native talent retrieval
+- 🏆 Won **6+ hackathons** — including a healthcare chatbot with multimodal RAG
+- 🌱 Currently deepening: **LangGraph**, **vector databases**, **system architecture**
+- 💬 Ask me about **LLMs, RAG, agentic AI, FastAPI, voice agents**
+- ⚡ Intern @ **Maurice Engineering Works** (Dec 2025 – Feb 2026)
+
+---
+
+## 🚀 What I Build
+
+| Area | What I Do |
+|---|---|
+| 🤖 **AI / ML** | Multi-agent systems, RAG pipelines, LLM fine-tuning, deepfake detection |
+| 🔧 **Backend** | FastAPI, Node.js, REST APIs, MCP servers, async Python |
+| 🌐 **Full-Stack** | React + TypeScript + Tailwind, Next.js, Vite |
+| 🎙️ **Voice Agents** | LiveKit, Vapi, real-time conversation AI |
+| ☁️ **Cloud & Infra** | Docker, GCP, Vercel, Supabase, PostgreSQL |
+
+---
+
+## 🛠️ Tech Stack
+
+> ### Languages
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" style="margin:4px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" style="margin:4px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" style="margin:4px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" style="margin:4px" />
+</p>
+
+> ### AI / ML
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="48" height="48" style="margin:4px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="48" height="48" style="margin:4px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" style="margin:4px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="48" height="48" style="margin:4px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" style="margin:4px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" style="margin:4px" />
+</p>
+
+> ### Backend
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="48" height="48" style="margin:4px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" style="margin:4px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="48" height="48" style="margin:4px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="48" height="48" style="margin:4px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="48" height="48" style="margin:4px" />
+</p>
+
+> ### Frontend
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" style="margin:4px" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" style="margin:4px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" style="margin:4px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" style="margin:4px" />
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" width="48" height="48" style="margin:4px" />
+</p>
+
+> ### Databases
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" height="48" style="margin:4px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" style="margin:4px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" style="margin:4px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="48" height="48" style="margin:4px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="48" height="48" style="margin:4px" />
+</p>
+
+> ### Cloud & DevOps
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="48" height="48" style="margin:4px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" style="margin:4px" />
+  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="48" height="48" style="margin:4px" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" style="margin:4px" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" style="margin:4px" />
+</p>
+
+---
+
+## 🏗️ Featured Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| 🤝 **[HireAHuman.ai](https://hire-a-human.app/)** | Live verification-first hiring platform with MCP server for AI-native talent retrieval | FastAPI, React, TypeScript, InsForge, FastMCP |
+| 🎙️ **Voice Booking Agent** | AI voice agent for doctor & service appointment booking | LiveKit, Vapi, LangGraph, Gemini |
+| 🧠 **VERTO AI** | Multimodal misinformation & deepfake detection system | Python, OpenCV, TensorFlow, FastAPI |
+| 🏥 **Healthcare Chatbot** | Multimodal RAG chatbot with medical document Q&A | LangChain, RAG, Streamlit, Gemini |
+| 🎯 **Interview Coach Agent** | AI agent for mock interviews with real-time feedback | LangGraph, FastAPI, React |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sanskaragrawal2107&show_icons=true&theme=tokyonight&border_radius=10&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=Sanskaragrawal2107&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sanskaragrawal2107&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" />
+</p>
+
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=Sanskaragrawal2107&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+## 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sanskar25/" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" width="40" height="40" style="margin: 0 8px" />
+  </a>
+  <a href="mailto:sanskar21072005@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" width="40" height="40" style="margin: 0 8px" />
+  </a>
+  <a href="https://hire-a-human.app/" target="_blank">
+    <img src="https://img.shields.io/badge/HireAHuman.ai-Visit%20Product-brightgreen?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sanskaragrawal2107/Sanskaragrawal2107/output/snake.svg" alt="Snake animation" />
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" />
+</div>
