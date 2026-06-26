@@ -8,6 +8,9 @@
   <img src="https://img.shields.io/badge/AI%20Engineer-Builder-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/FastAPI%20%2B%20LangChain-Backend-009688?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Open%20to-Opportunities-orange?style=for-the-badge" />
+  <a href="https://sanskaragrawal.tech/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-sanskaragrawal.tech-00D4FF?style=for-the-badge" />
+  </a>
 </p>
 
 <p align="center">
@@ -140,6 +143,9 @@
   </a>
   <a href="https://hire-a-human.app/" target="_blank">
     <img src="https://img.shields.io/badge/HireAHuman.ai-Visit%20Product-brightgreen?style=for-the-badge" />
+  </a>
+  <a href="https://sanskaragrawal.tech/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-sanskaragrawal.tech-00D4FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
